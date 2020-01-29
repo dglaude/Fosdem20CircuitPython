@@ -17,7 +17,8 @@ while True:
     try:
         value = pyportal.fetch()
         print("Response is", value)
-        pyportal.set_background(eval("0x"+value.lstrip("#")))
+#        pyportal.set_background(eval("0x"+value.lstrip("#")))
+        pyportal.set_background(int(value.lstrip("#"), 16))
     except RuntimeError as e:
         print("Some error occured, retrying! -", e)
     time.sleep(60)
