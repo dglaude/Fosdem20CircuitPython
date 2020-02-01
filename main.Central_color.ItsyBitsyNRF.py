@@ -1,4 +1,6 @@
-### main.Central_color.ItsyBitsy.py
+### main.Central_color.ItsyBitsyNRF.py
+
+"""
 ###
 ### This is "Central" to run on ItsyBitsy nRF52840
 ### Please connect a "client" such as:
@@ -8,6 +10,7 @@
 # https://github.com/adafruit/Adafruit_CircuitPython_BLE/blob/master/examples/ble_bluefruit_color_picker.py
 # https://learn.adafruit.com/circuitpython-nrf52840/neopixel-color
 # CircuitPython NeoPixel Color Picker Example
+"""
 
 # Adapted for ItsyBitsy and it's DotStar
 import board

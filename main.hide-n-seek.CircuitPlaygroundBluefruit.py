@@ -1,3 +1,5 @@
+### main.hide-n-seek.CircuitPlaygroundBluefruit.py
+
 """
 Circuit Playground Bluefruit Ornament Proximity
 This demo uses advertising to set the color of scanning devices depending on the strongest broadcast

@@ -1,9 +1,10 @@
 ### main.client_color.FeatherNRF.py
-###
+
+"""
 ### This is the "client" that connect to the "Central".
 ### Start this "client" on Feather nRF52840
 ### Start the "Central" on ItsyBitsy nRF52840
-"""
+
 Demonstration of a Bluefruit BLE Central/client.
 Connects to the first BLE UART peripheral it finds.
 Sends Bluefruit ColorPackets, 3 per second.

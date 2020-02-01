@@ -1,3 +1,5 @@
+### main.cheerlight_text.PyPortal.py
+
 """
 Minimalist Cheerlight for PyPortal:
 - Fetch the text API to get color in web format (#FF00FF)

@@ -1,3 +1,5 @@
+### main.hide-n-seek.ItsyBitsyNRF.py
+
 """
 ItsyBitsy nRF52840 Express transmitter for the "Circuit Playground Bluefruit Ornament Proximity" demo
 

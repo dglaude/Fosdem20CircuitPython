@@ -1,3 +1,5 @@
+### main.cheerlight_json.PyPortal.py
+
 """
 Cheerlight for PyPortal:
 - Fetch the JSON API to get color both in text and web format (#FF00FF)
@@ -37,3 +39,4 @@ while True:
     except (ValueError, RuntimeError) as e:
         print("Some error occured, retrying! -", e)
     time.sleep(10)
+
