@@ -1,0 +1,7 @@
+main.hide_seek.ItsyBitsyNRF.py
+
+Files/folders required in lib
+
+adafruit_dotstar.mpy
+adafruit_ble/
+
