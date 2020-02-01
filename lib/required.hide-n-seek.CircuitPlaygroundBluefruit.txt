@@ -1,0 +1,12 @@
+main.hide-n-seek.CircuitPlaygroundBluefruit.py
+
+Files/folders required in lib
+
+adafruit_circuitplayground/
+adafruit_lis3dh.mpy
+adafruit_thermistor.mpy
+neopixel.mpy
+adafruit_bus_device/
+adafruit_ble/
+
+
