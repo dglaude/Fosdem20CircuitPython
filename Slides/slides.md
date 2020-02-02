@@ -6,7 +6,9 @@ IoT with CircuitPython
 
 Look mam, no development environment.
 
-David Glaude 
+David Glaude
+
+- https://github.com/dglaude/Fosdem20CircuitPython
 
 **Partial disclosure**
 
@@ -41,24 +43,25 @@ Be aware as of 11/2016 the master branch of Adafruit's MicroPython GitHub reposi
 - Different Wifi offloading board
 - Different BLE API (both low level)
 
-**CircuitPython dates**
-
+**CircuitPython 1.0.0**
 JULY 19, 2017
-CircuitPython 1.0.0
 https://blog.adafruit.com/2017/07/19/circuitpython-1-0-0/
 Based on MicroPython 1.8.7.
 Support Atmel SAMD21 (aka M0) and ESP8266
 
-2.0.0 SEPTEMBER 12, 2017
+**CircuitPython 2.0.0**
+SEPTEMBER 12, 2017
 https://blog.adafruit.com/2017/09/12/circuitpython-2-0-0/
 Based on MicroPython 1.9.2.
 
-3.0.0 JULY 9, 2018
+**CircuitPython 3.0.0**
+JULY 9, 2018
 https://blog.adafruit.com/2018/07/09/circuitpython-3-0-0-released-adafruit-circuitpython/
 Support for the SAMD51 (aka M4)
 Based on MicroPython 1.9.3.
 
-4.0.0 MAY 20, 2019
+**CircuitPython 4.0.0**
+MAY 20, 2019
 https://blog.adafruit.com/2019/05/20/circuitpython-4-0-0-released/
 Remove ESP8266 support
 Support Nordic nRF52840
@@ -66,7 +69,8 @@ Add bleio
 Displayio replace framebuffer
 Based on MicroPython 1.9.4 @25ae98f.
 
-5.0 SOON
+**CircuitPython 5.0**
+SOON
 https://blog.adafruit.com/2020/01/21/circuitpython-5-0-0-beta-4-release-adafruit-circuitpython/
 Support for STM32F4, iMX RT10xx and Sony Spresense microcontrollers
 Better BLE
@@ -79,30 +83,38 @@ open hardware and open source
 
 A company with values: Gender Inclusive, voting day, STEM education, Support for ...
 
-**Numbers**
-
-- 100+ board: Adafruit and other
-- 200+ Libraries
+https://www.adafruit.com/
 
 **Ressource**
 
 https://circuitpython.org/
-- * Board
-- * Library
-- * Blinka
+
+100+ boards: Adafruit and other
 
 https://learn.adafruit.com/category/circuitpython
 sensor => library => example => learn guide
 
 **Community**
 
-https://adafru.it/discord
+- Discord: https://adafru.it/discord
+- Forum: https://forums.adafruit.com/
 
-**CircuitPython core vs library**
+**CircuitPython library**
+
+- 200+ Libraries
 
 - py: Python library
 - mpy: Bytecode compiled
 - frozen = build into core
+
+**Blinka**
+
+Circuit Python Library for
+- Micro controler
+- Single Board
+- Personal Computer: Linux Windows Mac
+
+https://learn.adafruit.com/circuitpython-on-any-computer-with-ft232h
 
 **User Friendly experience**
 
@@ -111,6 +123,8 @@ https://adafru.it/discord
 - Add library by copying files
 - Serial over USB available for REPL
 - Drag and drop new firmware (UF2)
+
+https://learn.adafruit.com/welcome-to-circuitpython
 
 **Hello World Demo**
 
@@ -128,11 +142,17 @@ https://adafru.it/discord
 - https://madewith.mu/
 - https://codewith.mu/
 
+**Blinkt Demo**
+
+The microcontroller Hello World
+
+- https://learn.adafruit.com/welcome-to-circuitpython/creating-and-editing-code
+
 **IoT**
 
 - Adafruit IO
 - Airlift
-- PyBoard
+- PyPortal
 - BLE with nRF52840
 
 **Adafruit IO**
@@ -173,6 +193,7 @@ https://twitter.com/cheerlights
 - GAP: Central or Periferical
 - GATT: Server or Client
 
+- https://learn.adafruit.com/assets/86833
 - https://learn.adafruit.com/circuitpython-nrf52840
 - https://learn.adafruit.com/ble-hid-keyboard-buttons-with-circuitpython/understanding-ble
 - https://learn.adafruit.com/category/bluefruit-slash-ble
@@ -181,6 +202,7 @@ https://twitter.com/cheerlights
 
 - Hide n Seek (beacon)
 - Central/client Color (Adafruit UART protocol)
+
 
 **jargon (and trademark)**
 
