@@ -6,7 +6,9 @@ IoT with CircuitPython
 
 Look mam, no development environment.
 
-David Glaude 
+David Glaude
+
+- https://github.com/dglaude/Fosdem20CircuitPython
 
 **Partial disclosure**
 
@@ -79,30 +81,38 @@ open hardware and open source
 
 A company with values: Gender Inclusive, voting day, STEM education, Support for ...
 
-**Numbers**
-
-- 100+ board: Adafruit and other
-- 200+ Libraries
-
 **Ressource**
 
 https://circuitpython.org/
-- * Board
-- * Library
-- * Blinka
+- Board
+- Library
+- Blinka
+
+- 100+ board: Adafruit and other
+- 200+ Libraries
 
 https://learn.adafruit.com/category/circuitpython
 sensor => library => example => learn guide
 
 **Community**
 
-https://adafru.it/discord
+- Discord: https://adafru.it/discord
+- Forum: https://forums.adafruit.com/
 
-**CircuitPython core vs library**
+**CircuitPython library**
 
 - py: Python library
 - mpy: Bytecode compiled
 - frozen = build into core
+
+**Blinka**
+
+Circuit Python Library for
+- Micro controler
+- Single Board
+- Personal Computer: Linux Windows Mac
+
+https://learn.adafruit.com/circuitpython-on-any-computer-with-ft232h
 
 **User Friendly experience**
 
@@ -111,6 +121,8 @@ https://adafru.it/discord
 - Add library by copying files
 - Serial over USB available for REPL
 - Drag and drop new firmware (UF2)
+
+https://learn.adafruit.com/welcome-to-circuitpython
 
 **Hello World Demo**
 
@@ -127,6 +139,12 @@ https://adafru.it/discord
 - Draw graphic from output
 - https://madewith.mu/
 - https://codewith.mu/
+
+**Blinkt Demo**
+
+The microcontroler Hello World
+
+- https://learn.adafruit.com/welcome-to-circuitpython/creating-and-editing-code
 
 **IoT**
 
