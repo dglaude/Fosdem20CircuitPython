@@ -193,6 +193,7 @@ https://twitter.com/cheerlights
 - GAP: Central or Periferical
 - GATT: Server or Client
 
+- https://learn.adafruit.com/assets/86833
 - https://learn.adafruit.com/circuitpython-nrf52840
 - https://learn.adafruit.com/ble-hid-keyboard-buttons-with-circuitpython/understanding-ble
 - https://learn.adafruit.com/category/bluefruit-slash-ble
